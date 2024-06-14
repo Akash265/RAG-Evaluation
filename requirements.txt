@@ -1,0 +1,12 @@
+pandas
+langchain-openai
+langchain-community
+PyPDF
+langchain 
+faiss-cpu 
+transformers
+sentence-transformers
+torch 
+streamlit 
+openai 
+openpyxl
