@@ -11,7 +11,7 @@ import pandas as pd
 import os
 
 # Set your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "sk-proj-lwhyaPhdhtnQt3xsi2kMT3BlbkFJLz9ibUxbY1FeMmcx7RqF"
+os.environ["OPENAI_API_KEY"] = "<your api key>"
 
 # Load the PDF document and create the vector store index
 loader = PyPDFLoader("policy-booklet-0923.pdf")
